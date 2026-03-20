@@ -1,0 +1,7 @@
+{
+  "project_id": "nexus-core-001",
+  "version": "0.1.0-alpha",
+  "status": "BOOTSTRAP",
+  "intent_v": 1,
+  "players": { "nexus": "MANUAL", "gas": "ACTIVE", "gh": "INIT", "gag": "AWAITING" }
+}
