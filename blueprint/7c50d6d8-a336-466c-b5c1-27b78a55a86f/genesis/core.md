@@ -1,0 +1,3 @@
+# Genesis Prompt for project 7c50d6d8-a336-466c-b5c1-27b78a55a86f
+
+Begin your architectural intent here...

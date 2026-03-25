@@ -11,7 +11,11 @@ export default {
         nexus: {
           dark: '#0f172a',
           accent: '#38bdf8',
-        }
+        },
+        primary: 'var(--text-primary)',
+        secondary: 'var(--text-secondary)',
+        muted: 'var(--text-muted)',
+        accent: 'var(--text-accent)',
       }
     },
   },

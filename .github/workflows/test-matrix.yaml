@@ -1,0 +1,15 @@
+name: Test Matrix
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        suite: [unit, integration, contract, workflow, e2e]
+    steps:
+      - name: Placeholder
+        run: echo "Run ${{ matrix.suite }} suite"

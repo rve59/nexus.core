@@ -1,0 +1,9 @@
+{
+  "sprint_id": "SPR-<id>",
+  "planned_story_count": 0,
+  "completed_story_count": 0,
+  "carryover_story_count": 0,
+  "planned_points": 0,
+  "completed_points": 0,
+  "captured_at": "YYYY-MM-DD"
+}

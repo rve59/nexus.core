@@ -1,0 +1,6 @@
+markers:
+  - unit: fast isolated tests with no external services
+  - integration: service and persistence boundary tests
+  - contract: API schema and interface compatibility tests
+  - workflow: orchestrated multi-step functional tests
+  - e2e: end-to-end release-path tests

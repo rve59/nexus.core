@@ -1,0 +1,4 @@
+- **Stack:** React19, Vite, Tailwind, and Lucide
+- **Topology:** Hybrid Workbench
+- **Persistence Strategy:** JSON Flat Files
+- **Constraint:** Zero external DB

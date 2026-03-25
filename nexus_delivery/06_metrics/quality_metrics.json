@@ -1,0 +1,13 @@
+{
+  "description": "Quality and governance trend metrics",
+  "entries": [
+    {
+      "period": "2026-03",
+      "unit_test_pass_rate": 0,
+      "integration_test_pass_rate": 0,
+      "drift_detection_fail_rate": 0,
+      "story_to_pr_linkage_coverage": 0,
+      "captured_at": "2026-03-25"
+    }
+  ]
+}

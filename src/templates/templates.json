@@ -1,0 +1,174 @@
+[
+  {
+    "id": "master_genesis",
+    "name": "Standard Web Client/Server",
+    "description": "Recommended for standard web-based client-server applications with file system storage.",
+    "aspects": {
+      "architecture": [
+        "Functional Requirements",
+        "Non-Functional Constraints",
+        "Performance Benchmarks",
+        "Compliance Standards",
+        "Stack",
+        "Topology",
+        "Persistence Strategy",
+        "Constraint"
+      ],
+      "components": [
+        "Backend Core",
+        "Frontend UI",
+        "External Integrations",
+        "Edge Services"
+      ],
+      "features": [
+        "Ingestion",
+        "Reasoning",
+        "Transformation",
+        "Synthesis",
+        "Administration"
+      ],
+      "use-cases": [
+        "Primary Flows",
+        "Exception Paths",
+        "Agentic Loops"
+      ],
+      "communication": [
+        "Protocols",
+        "Event Schemas",
+        "API Standards"
+      ],
+      "data_model": [
+        "Schema Design",
+        "Persistence Strategy",
+        "Data Lifecycle"
+      ],
+      "ui_ux": [
+        "Visual Language",
+        "Interaction Patterns",
+        "User Personas"
+      ],
+      "domain_specs": [
+        "Formal Specs",
+        "JSON Schemas",
+        "Verification Rules"
+      ]
+    },
+    "taxonomies": {
+      "Stack": [
+        "React 19 (Vite/Tailwind)",
+        "Next.js 15 (App Router)",
+        "Vue 3 (Vite/Pinia)"
+      ],
+      "Topology": [
+        "Hybrid Workbench (Local + Cloud)",
+        "Cloud Native (SaaS)",
+        "Distributed Node Network"
+      ],
+      "Persistence Strategy": [
+        "Nexus-FS (Local JSON)",
+        "SQLite (Edge)",
+        "PostgreSQL (Centralized)"
+      ],
+      "Functional Requirements": [
+        "Data Integrity",
+        "Low Latency",
+        "High Availability",
+        "Atomic Transactions"
+      ],
+      "Ingestion": [
+        "File Watcher",
+        "REST API",
+        "gRPC Stream",
+        "Manual Entry"
+      ]
+    }
+  },
+  {
+    "id": "local_first_collaborative",
+    "name": "Local-First Real-time Collaborative",
+    "description": "Optimized for applications requiring local-first persistence and real-time multi-device synchronization.",
+    "aspects": {
+      "architecture": [
+        "Performance Benchmarks",
+        "Compliance Standards",
+        "Sync Guarantees",
+        "Offline Support",
+        "Mobile-First Responsive Stack",
+        "Local-First Topology",
+        "Persistence Strategy",
+        "Collaboration Constraint"
+      ],
+      "components": [
+        "Orchestration Layer",
+        "Sync Engine",
+        "Storage Adapter",
+        "UI Workbench"
+      ],
+      "features": [
+        "Room Management",
+        "Real-time Sync",
+        "Local Cache",
+        "Collaborative UX",
+        "Administrative"
+      ],
+      "use-cases": [
+        "Collaboration Flows",
+        "Conflict Scenarios",
+        "Connectivity Edge Cases",
+        "Multi-Device Sync"
+      ],
+      "communication": [
+        "Real-time Protocol",
+        "Signal Signaling",
+        "State Schema"
+      ],
+      "data_model": [
+        "CRDT Structure",
+        "Local FS Schema",
+        "Data Lifecycle"
+      ],
+      "ui_ux": [
+        "Multi-Device UI",
+        "Presence Cues",
+        "Collaboration Status"
+      ],
+      "domain_specs": [
+        "Goal",
+        "Sync Prototype",
+        "Multi-Device Success"
+      ]
+    },
+    "taxonomies": {
+      "Mobile-First Responsive Stack": [
+        "React 19 + Tailwind",
+        "React Native",
+        "PWA (Fastly/Vercel)"
+      ],
+      "Local-First Topology": [
+        "CRDT Sync Layer",
+        "P2P Mesh",
+        "Master-Slave Sync"
+      ],
+      "Persistence Strategy": [
+        "Nexus-FS (Pathlib/JSON)",
+        "IndexedDB (Browser)",
+        "OPFS (Origin Private FS)"
+      ],
+      "Collaboration Constraint": [
+        "Room-Based Isolation",
+        "Zero External Dependencies",
+        "Conflict-Free Replicated State"
+      ],
+      "Room Management": [
+        "Auth & Invitation",
+        "Presence Tracking",
+        "Session Handover"
+      ],
+      "Real-time Sync": [
+        "WebRTC P2P",
+        "WebSocket Relay",
+        "Server-Sent Events"
+      ]
+    }
+  }
+]

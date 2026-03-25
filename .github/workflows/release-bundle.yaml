@@ -1,0 +1,11 @@
+name: Release Bundle Validation
+
+on:
+  workflow_dispatch:
+
+jobs:
+  bundle-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder
+        run: echo "Validate ASDLC bundle fields and references"

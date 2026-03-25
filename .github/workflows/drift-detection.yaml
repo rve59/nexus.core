@@ -1,0 +1,12 @@
+name: Drift Detection
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  drift-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder
+        run: echo "Implement MGT-to-code and intent linkage drift checks"

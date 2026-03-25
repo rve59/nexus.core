@@ -2,9 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --text-primary: #f1f5f9;   /* Slate 100 - White with a touch of grey */
+  --text-secondary: #cbd5e1; /* Slate 300 - Clearly visible secondary */
+  --text-muted: #64748b;     /* Slate 500 - Subdued but readable */
+  --text-accent: #34d399;    /* Emerald 400 - Vibrant highlight */
+}
+
 body {
   margin: 0;
   background-color: #0f172a; /* Slate 900 */
-  color: white;
+  color: var(--text-primary);
   font-family: sans-serif;
 }

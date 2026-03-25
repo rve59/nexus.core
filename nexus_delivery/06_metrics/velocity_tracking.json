@@ -1,0 +1,17 @@
+{
+  "description": "Historical sprint velocity snapshots",
+  "entries": [
+    {
+      "sprint_id": "SPR-00",
+      "planned_story_count": 1,
+      "completed_story_count": 0,
+      "captured_at": "2026-03-25"
+    },
+    {
+      "sprint_id": "SPR-01",
+      "planned_story_count": 4,
+      "completed_story_count": 0,
+      "captured_at": "2026-03-25"
+    }
+  ]
+}
