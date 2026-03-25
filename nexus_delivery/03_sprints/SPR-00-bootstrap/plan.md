@@ -6,7 +6,8 @@ SPR-00
 
 ## Sprint Goal
 
-Establish a production-grade Scrum delivery operating system and project governance artifacts.
+Establish a production-grade Scrum delivery operating system and project
+governance artifacts.
 
 ## Scope
 

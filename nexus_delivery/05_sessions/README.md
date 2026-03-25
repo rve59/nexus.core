@@ -1,6 +1,7 @@
 # Sessions and Decision Trace
 
-This folder stores product and engineering session records to preserve decision context.
+This folder stores product and engineering session records to preserve decision
+context.
 
 ## Layout
 

@@ -2,7 +2,8 @@
 
 ## Delivery Metrics
 
-1. Sprint commitment reliability = completed committed stories / total committed stories.
+1. Sprint commitment reliability = completed committed stories / total committed
+   stories.
 2. Lead time for changes = PR open to merge time.
 3. Cycle time per story = in progress to done.
 

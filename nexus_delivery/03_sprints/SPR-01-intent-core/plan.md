@@ -6,7 +6,8 @@ SPR-01
 
 ## Sprint Goal
 
-Deliver foundational intent governance services for MGT validation, versioning, and state management.
+Deliver foundational intent governance services for MGT validation, versioning,
+and state management.
 
 ## Committed Stories
 

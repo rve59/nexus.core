@@ -9,6 +9,16 @@ Thumbs.db
 
 # VS Code local workspace noise
 .vscode/*.log
+.vscode-test/
+.history/
+.eslintcache
+
+# VS Code workspace settings: keep shared config, ignore local cache/state
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
 # ------------------------------------------------------------
 # Secrets / local env
@@ -22,6 +32,7 @@ Thumbs.db
 # Python
 # ------------------------------------------------------------
 __pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
 .python_history

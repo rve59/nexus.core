@@ -3,9 +3,12 @@ import argparse
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Send a heartbeat project create request")
-    parser.add_argument("--base-url", default="http://127.0.0.1:8078", help="Base API URL")
-    parser.add_argument("--name", default="Bootstrap-Nexus-App", help="Project name")
+    parser = argparse.ArgumentParser(
+        description="Send a heartbeat project create request")
+    parser.add_argument(
+        "--base-url", default="http://127.0.0.1:8078", help="Base API URL")
+    parser.add_argument(
+        "--name", default="Bootstrap-Nexus-App", help="Project name")
     parser.add_argument(
         "--description",
         default="The self-hosting Nexus workbench",

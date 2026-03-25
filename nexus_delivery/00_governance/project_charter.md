@@ -2,7 +2,8 @@
 
 ## Purpose
 
-Build Nexus.core as an intent-first agentic software delivery platform that orchestrates GAS, GitHub, and GAG/Copilot with strong governance.
+Build Nexus.core as an intent-first agentic software delivery platform that
+orchestrates GAS, GitHub, and GAG/Copilot with strong governance.
 
 ## Scope
 
@@ -33,12 +34,16 @@ Build Nexus.core as an intent-first agentic software delivery platform that orch
 ## Roles
 
 - Product Owner: user (strategy, prioritization, acceptance).
-- Lead PM Agent: Copilot in VS Code (backlog ops, traceability, sprint execution support).
+- Lead PM Agent: Copilot in VS Code (backlog ops, traceability, sprint execution
+  support).
 - Lead Architect: Copilot + human review.
 - Engineering Team: GAS, GAG/Copilot, and human-in-the-loop.
 
 ## Governance Enforcement Model
 
-1. Hybrid CI gates are used: critical quality and traceability checks are blocking, process-maturity checks are advisory.
-2. Escalation thresholds and approval authority are governed by `00_governance/escalation-matrix.md`.
-3. Agent responsibilities and decision boundaries are governed by `00_governance/agent-roles-and-responsibilities.md`.
+1. Hybrid CI gates are used: critical quality and traceability checks are
+   blocking, process-maturity checks are advisory.
+2. Escalation thresholds and approval authority are governed by
+   `00_governance/escalation-matrix.md`.
+3. Agent responsibilities and decision boundaries are governed by
+   `00_governance/agent-roles-and-responsibilities.md`.

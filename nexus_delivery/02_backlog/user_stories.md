@@ -14,7 +14,8 @@ Every story should reference:
 
 ### US-01-01-001 (FT-01-01)
 
-As a product owner, I want MGT schema validation so that only compliant intent artifacts enter development.
+As a product owner, I want MGT schema validation so that only compliant intent
+artifacts enter development.
 
 Acceptance Criteria:
 
@@ -24,7 +25,8 @@ Acceptance Criteria:
 
 ### US-01-02-001 (FT-01-02)
 
-As a lead architect, I want every code stream linked to a specific intent version so that implementation is auditable.
+As a lead architect, I want every code stream linked to a specific intent
+version so that implementation is auditable.
 
 Acceptance Criteria:
 
@@ -34,7 +36,8 @@ Acceptance Criteria:
 
 ### US-02-01-001 (FT-02-01)
 
-As a consultant agent, I want a deterministic state machine so that synthesis phases are reproducible.
+As a consultant agent, I want a deterministic state machine so that synthesis
+phases are reproducible.
 
 Acceptance Criteria:
 
@@ -44,7 +47,8 @@ Acceptance Criteria:
 
 ### US-04-01-001 (FT-04-01)
 
-As an engineering lead, I want a structured pytest pyramid so that failures are isolated and fast to diagnose.
+As an engineering lead, I want a structured pytest pyramid so that failures are
+isolated and fast to diagnose.
 
 Acceptance Criteria:
 

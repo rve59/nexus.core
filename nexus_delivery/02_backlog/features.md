@@ -2,7 +2,8 @@
 
 ## Traceability Notes
 
-1. Each feature should map to at least one blueprint stream and one runtime module.
+1. Each feature should map to at least one blueprint stream and one runtime
+   module.
 2. Story decomposition must be recorded in `user_stories.md`.
 3. Cross-feature dependencies should be tracked in `dependencies.md`.
 
